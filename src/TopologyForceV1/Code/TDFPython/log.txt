@@ -1,0 +1,74 @@
+Debuging Persistence Computation -- Log File
+Sat Mar  7 19:10:33 2020
+-------start vList construction and sorting
+Sat Mar  7 19:10:33 2020
+-------start sorting vList by f. value
+Sat Mar  7 19:10:33 2020
+-------end sorting vList by f. value
+Sat Mar  7 19:10:33 2020
+-------end vList constructed and sorting
+Number of vertices = 23716
+Sat Mar  7 19:10:33 2020
+-------start propagating maximum values from vertices
+Sat Mar  7 19:10:33 2020
+-------end propagating maximum values from vertices
+Sat Mar  7 19:10:33 2020
+-------start cell numbering 
+Sat Mar  7 19:10:33 2020
+-------end cell numbering 
+Sat Mar  7 19:10:33 2020
+-------start explicit cell generation
+Sat Mar  7 19:10:33 2020
+-------end explicit cell generation
+Sat Mar  7 19:10:33 2020
+-------start explicit cell generation
+Sat Mar  7 19:10:33 2020
+-------end explicit cell generation
+Sat Mar  7 19:10:33 2020
+-------start explicit cell generation
+Sat Mar  7 19:10:33 2020
+-------end explicit cell generation
+Sat Mar  7 19:10:33 2020
+-------start propagating maximum values from vertices
+Sat Mar  7 19:10:33 2020
+-------end propagating maximum values from vertices
+Sat Mar  7 19:10:33 2020
+-------start cell numbering 
+Sat Mar  7 19:10:33 2020
+-------end cell numbering 
+Sat Mar  7 19:10:33 2020
+-------start boundary list resizing
+Sat Mar  7 19:10:33 2020
+-------end boundary list resizing
+Sat Mar  7 19:10:33 2020
+-------start boundary calculation
+Sat Mar  7 19:10:33 2020
+----------filtration construction finished
+Sat Mar  7 19:10:33 2020
+-------Reducing cells, total number = 23409
+Sat Mar  7 19:10:33 2020
+-------start propagating maximum values from vertices
+Sat Mar  7 19:10:33 2020
+-------end propagating maximum values from vertices
+Sat Mar  7 19:10:33 2020
+-------start cell numbering 
+Sat Mar  7 19:10:33 2020
+-------end cell numbering 
+Sat Mar  7 19:10:33 2020
+-------start boundary list resizing
+Sat Mar  7 19:10:33 2020
+-------end boundary list resizing
+Sat Mar  7 19:10:33 2020
+-------start boundary calculation
+Sat Mar  7 19:10:33 2020
+----------filtration construction finished
+Sat Mar  7 19:10:33 2020
+-------Reducing cells, total number = 47124
+Sat Mar  7 19:10:33 2020
+-------Reduction done
+Sat Mar  7 19:10:33 2020
+-------Recording persistence pairs
+Sat Mar  7 19:10:33 2020
+-------Finished
+All calculations computed in 0 seconds. 
+

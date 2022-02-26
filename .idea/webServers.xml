@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4ed06888-28a8-470b-ac15-59cf7e3d7400" name="peach1201 (project level)">
+        <fileTransfer rootFolder="/home/sty" accessType="SFTP" host="202.114.8.90" port="1201" sshConfigId="15b06db9-651f-4b56-a164-a4bc3afa477c" sshConfig="peach1201">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
