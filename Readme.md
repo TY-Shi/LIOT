@@ -90,5 +90,4 @@ More convenient LIOT will be continuously updated.
 Thanks for your attention!
 If you have any suggestion or question, you can leave a message here or contact us directly:
 - shitianyihust@hust.edu.cn
-- shitianyihust@126.com
 - yongchaoxu@hust.edu.cn
