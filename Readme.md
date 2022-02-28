@@ -1,7 +1,7 @@
 # Local Intensity Order Transformation for Robust Curvilinear Object Segmentation
 
 ## Introduction
-Pytorch implementation of the paper ["Local Intensity Order Transformation for Robust Curvilinear Object Segmentation", Accepted by IEEE TIP](). In this paper, we aim to improve curvilinear object segmentation generalizability by introducing a novel local intensity order transformation (LIOT).
+Pytorch implementation of the paper ["Local Intensity Order Transformation for Robust Curvilinear Object Segmentation", Accepted by IEEE TIP](https://arxiv.org/abs/2202.12587). In this paper, we aim to improve curvilinear object segmentation generalizability by introducing a novel local intensity order transformation (LIOT).
 
 ## Citation
 Please cite the related works in your publications if it helps your research:
