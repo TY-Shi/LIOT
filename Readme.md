@@ -80,6 +80,9 @@ Put the weights in the "DRIVE-LIOT_Iternet_weights/" directory.
    
 3. Visualization of the segmentation results under crossdataset validation between retinal and CrackTree datasets.
 ![](figs/cross_retinal_crack.png)
+
+4. Some segmentation results on different types of curvilinear images using the model trained on DRIVE dataset. From left to right: input image, segmentation on the original image using the baseline model, segmentation result by LIOT.
+![](figs/different_type_curvilinear_image.png)
 ## Quantitative Reuslts
 Quantitative comparison of LIOT and some other methods under cross-dataset evaluation on retinal images.
 ![](figs/table.png)
