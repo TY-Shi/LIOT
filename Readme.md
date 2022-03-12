@@ -68,6 +68,9 @@ CUDA_VISIBLE_DEVICES=0 python src/curvilinearNN_predict_thresh.py
 Trained models can be downloaded from here. [[Google Drive](https://drive.google.com/file/d/1wtATuEFbZPZ06k_C_T5gV59u-_eaH3cJ/view?usp=sharing)] [[Baidu Drive](https://pan.baidu.com/s/1_r3CFhW-qjJZD2nE5iIBzw) (download code: urc2) ].   
 Put the weights in the "DRIVE-LIOT_Iternet_weights/" directory.  
 
+## LIOT Algorithm
+![](figs/Algorithm.png)
+
 ## Example Results
 1. Some segmentation results under cross-dataset validation. Green pixels: TPs; Red pixels: FNs; Blue pixels: FPs. Some FPs achieved by LIOT can find evidence in the original image, which might be TPs ignored in the manual annotation.
 ![](figs/cross_retinal.png)
