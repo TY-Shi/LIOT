@@ -7,23 +7,18 @@ Pytorch implementation of the paper ["Local Intensity Order Transformation for R
 Please cite the related works in your publications if it helps your research:
 comming soon...
 
-[comment]: <> (```)
 
-[comment]: <> (@inproceedings{wang2019deepflux,)
-
-[comment]: <> (  title={DeepFlux for Skeletons in the Wild},)
-
-[comment]: <> (  author={Wang, Yukang and Xu, Yongchao and Tsogkas, Stavros and Bai, Xiang and Dickinson, Sven and Siddiqi, Kaleem},)
-
-[comment]: <> (  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},)
-
-[comment]: <> (  pages={5287--5296},)
-
-[comment]: <> (  year={2019})
-
-[comment]: <> (})
-
-[comment]: <> (```)
+```
+@ARTICLE{Shi2022LIOT,
+  author={Shi, Tianyi and Boutry, Nicolas and Xu, Yongchao and Géraud, Thierry},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Local Intensity Order Transformation for Robust Curvilinear Object Segmentation}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIP.2022.3155954}}
+```
 
 ### Prerequisities
 * Datasets: [[DRIVE]](https://drive.grand-challenge.org/), [[STARE]](https://cecas.clemson.edu/~ahoover/stare/), [[CHASEDB1]](https://blogs.kingston.ac.uk/retinal/chasedb1/), [[CrackTree]](https://drive.google.com/drive/folders/1y9SxmmFVh0xdQR-wdchUmnScuWMJ5_O-)
