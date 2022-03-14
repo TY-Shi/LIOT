@@ -5,8 +5,6 @@ Pytorch implementation of the paper ["Local Intensity Order Transformation for R
 
 ## Citation
 Please cite the related works in your publications if it helps your research:
-comming soon...
-
 
 ```
 @ARTICLE{Shi2022LIOT,
