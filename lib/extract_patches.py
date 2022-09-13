@@ -95,6 +95,8 @@ def get_singledata_testing_overlap(Single_img, Single_gt, patch_height, patch_wi
     test_imgs = test_imgs[:, :, :, :]
     test_masks = test_masks[:, :, :, :]
     test_imgs = paint_border_overlap(test_imgs, patch_height, patch_width, stride_height, stride_width)
+    #extract the TEST patches from the full images
+    patches_imgs_test = extract_ordered_overlap(test_imgs, patch_height, patch_width, stride_height, stride_width)
 
     return patches_imgs_test, test_imgs.shape[2], test_imgs.shape[3], test_masks
 
