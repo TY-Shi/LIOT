@@ -7,15 +7,15 @@ Pytorch implementation of the paper ["Local Intensity Order Transformation for R
 Please cite the related works in your publications if it helps your research:
 
 ```
-@ARTICLE{Shi2022LIOT,
-  author={Shi, Tianyi and Boutry, Nicolas and Xu, Yongchao and Géraud, Thierry},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Local Intensity Order Transformation for Robust Curvilinear Object Segmentation}, 
+@article{shi2022local,
+  title={Local intensity order transformation for robust curvilinear object segmentation},
+  author={Shi, Tianyi and Boutry, Nicolas and Xu, Yongchao and G{\'e}raud, Thierry},
+  journal={IEEE Transactions on Image Processing},
+  volume={31},
+  pages={2557--2569},
   year={2022},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TIP.2022.3155954}}
+  publisher={IEEE}
+}
 ```
 
 ## Prerequisities
